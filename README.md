@@ -26,3 +26,8 @@ Ete es otro texto. ejemplo de codigo en python
 ## seccion 3
 
 haga click [aqui](www.google.com) para ir a google
+
+## seccion 4 
+
+   * este es el tema 1 de la seccion 4
+     * este es un subitem del tema anterior
